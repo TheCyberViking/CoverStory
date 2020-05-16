@@ -28,7 +28,7 @@ male or female
 
 
 ## Comming Soon
-Short Story Background Generator, to build a background such as kids, family, growing up, general life
+Short Story Background Generator, to build a background such as kids, family, growing up, general life such as hoobies and other information to make the cover belivable
 
 ## Example output
 
