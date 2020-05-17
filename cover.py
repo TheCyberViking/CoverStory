@@ -1,24 +1,22 @@
 from fng_api import *
 import os
 
-# this tool will generate a full cover idea
-
+# this shit right here is just to clear the terminal...
 def clear():
     os.system('cls' if os.name=='nt' else 'clear')
 
-
-
+# this is the main generator of the details
 def covergen():
     clear()
-    print("Before Cover Made we have a few Questions")
+    print("Before Cover is Made we have a few Questions")
     print("")
-    print("Set Age for you want, close to real for best, 100 is the max")
+    print("Set Age you want, close to real for best, 100 is the max")
     ageset = input("Set Age: ")
     print("What Country set as lower case | au | ca | gr | it | fr | sp | za | tn | uk | us | cyen | cygk | pl")
     countryset = input("Set Country: ")
     print("Set a Namestyle by country set as lower case | us | ar | cs | ch | en | gr | it | gd | ru | pl | hu")
     nameset = input("Set NameType: ")
-    print("Set Gender Male or Female for now, set as lower case | male | female")
+    print("Set Gender to Male or Female for now, set as lower case | male | female")
     genderset0 = input("Set Gender: ")
     if genderset0 == "male":
         genderset = "100"
@@ -106,10 +104,7 @@ def covergen():
     f.write("MONEYGRAM\n")
     f.write(identity.moneygram)
     f.close()
-
     print("you new Cover ID is called: ",textfile," This can be found in this folder")
-
-
 
 def menu():
     clear()
@@ -119,8 +114,7 @@ def menu():
         print("#######################################################")
         print("#     CoverStory Generator By @TheCyberViking         #")
         print("#######################################################")
-        print("This will Generator a Full Cover Story for you")
-        print("This will generate a text file will all the details")
+        print("This will Generator a Cover Story for you as a text file")
         print("")
         print("""
         1. Generate a Cover
