@@ -10,8 +10,6 @@ I wanted to write a tool for two reasons 1 - practice coding and 2 - to give a t
 
 ## Requirements
 python3 pip install fng-api
-or
-python3 pip install fng_api
 
 
 ## Usage
