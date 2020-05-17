@@ -3,9 +3,9 @@ A cover story generator for people who Need Quick Covers On Operations
 
 
 ## Why? 
-in my own Operational Security, I live in an area where it can be dangerous saying where you work, your family name or basic details for life. To circumvent this depending on the scenario I have a set of covers for example, At the Barbers I am john O'Shea from Dublin I work as an insurance broker, married with a young child. While at my Building suppliers I am Stephen Burke a Farmhand from Meath, single with no family who loves football. 
+in my own Operational Security, I live in an area where it can be dangerous saying where you work, your family name, or basic details for life. To circumvent this depending on the scenario I have a set of covers, for example, At the Barbers, I am john O'Shea from Dublin I work as an insurance broker, married with a young child. While at my Building suppliers I am Stephen Burke a Farmhand from Meath, single with no family who loves football. 
 
-I wanted to write a tool for two reason 1 - practice coding and 2 - to give a tool that will do this for others who build a backstory. this has alot of uses specail for investigations. 
+I wanted to write a tool for two reasons 1 - practice coding and 2 - to give a tool that will do this for others who build a backstory. this has alot of uses special for investigations. 
 
 
 ## Requirements
@@ -28,7 +28,7 @@ male or female
 
 
 ## Comming Soon
-Short Story Background Generator, to build a background such as kids, family, growing up, general life such as hoobies and other information to make the cover belivable
+Short Story Background Generator, to build a background such as kids, family, growing up, general life such as hobbies and other information to make the cover believable
 
 ## Example output
 
